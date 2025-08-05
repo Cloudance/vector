@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:24.10
 
 # Install the git repository to ensure we get the latest version.
 # This is important for determining the current Vector version number.
